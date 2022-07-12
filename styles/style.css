@@ -1,5 +1,5 @@
 html {
-  font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-size: 10px; 
   font-family: Georgia, serif; 
   background-color: violet;
 }
