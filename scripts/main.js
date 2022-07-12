@@ -4,8 +4,8 @@ let myHeading = document.querySelector('h1');
 
 myImage.onclick = function() {
     let mySrc = myImage.getAttribute('src');
-    if(mySrc === 'images/firefox-icon.png') {
-      myImage.setAttribute ('src','images/1.png');
+    if(mySrc === 'images/icon.png') {
+      myImage.setAttribute ('src','images/2.png');
     } else {
       myImage.setAttribute ('src','images/firefox-icon.png');
     }
